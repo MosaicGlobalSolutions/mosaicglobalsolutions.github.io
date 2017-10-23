@@ -1,0 +1,23 @@
+{
+  "name": "mosaic-global-solutions",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "reload -b",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosaicGlobalSolutions/mosaicglobalsolutions.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosaicGlobalSolutions/mosaicglobalsolutions.github.io/issues"
+  },
+  "homepage": "https://github.com/MosaicGlobalSolutions/mosaicglobalsolutions.github.io#readme",
+  "devDependencies": {
+    "reload": "^2.2.2"
+  }
+}
