@@ -176,6 +176,7 @@ ul, ol {
 }
 
 .item-detail-container {
+	border: solid 1px rgba(87, 87, 87,.25);
 	height: 100%;
 	left: 0;
 	position: absolute;
@@ -200,6 +201,7 @@ ul, ol {
 	background: -ms-linear-gradient(top, rgba(0,0,0,0.21) 0%, rgba(0,0,0,0.21) 0%, rgba(0,0,0,0.21) 61%, rgba(0,0,0,1) 100%);
 	background: linear-gradient(to bottom, rgba(0,0,0,0.21) 0%, rgba(0,0,0,0.21) 0%, rgba(0,0,0,0.21) 61%, rgba(0,0,0,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000', GradientType=0 );
+	border: 0;
 }
 
 .hovers {
