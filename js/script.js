@@ -196,7 +196,7 @@
 
     //background ticker (bg2/testimonial)
     $('.big-ticker:has(>div:eq(1))').list_ticker({
-        speed: 5000,
+        speed: 10000,
         effect: 'fade'
     });
 
@@ -207,3 +207,10 @@
     }
 
 })(jQuery);
+
+
+// Custom Audio
+function togglePlayAudio(audioId) {
+    document.getElementById(audioId).play();
+    return false;
+}
