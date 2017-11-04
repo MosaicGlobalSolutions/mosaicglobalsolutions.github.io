@@ -1401,6 +1401,13 @@ input:focus, textarea:focus {
 @media (max-width: 500px) {
 }
 
+@media (max-width: 320px) {
+	.caption-box h3 {
+		font-size: 40px;
+		margin-top: 60px;
+	}
+}
+
 /* Custom */
 /* #published h3 {
 	font-size: 22px;
