@@ -492,8 +492,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
     text-align: center;
 }
 #about img {
-	opacity: 0.4;
-	width: 75px;
+	/* opacity: 0.9; */
+	width: 100px;
 	text-align: center;
 }
 .gal-box {
