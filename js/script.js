@@ -11,7 +11,7 @@
 
     //google map load
     $("#map_canvas").gmap({
-      center: "42.359437,-71.053780",
+      center: "42.350069,-71.049749",
       zoom: 14,
       scrollwheel: false,
       disableDefaultUI: false,
