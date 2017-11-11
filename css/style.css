@@ -422,6 +422,24 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 	background-size: cover;
 	background-color: #3582af;
 }
+
+.slide-bg {
+	background-position: center center;
+	background-size: cover;
+	/* background-color: #3582af; */
+}
+.slide1 {
+	background-color: #3582af;
+}
+
+.slide2 {
+	background-color: #54648d;
+}
+
+.slide3 {
+	background-color: #35a5af; 
+}
+
 .slider-mask {
 	background-color: rgba(0, 0, 0, 0.3);
 	height: 100%;
@@ -431,7 +449,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 	width: 100%;
 }
 .caption-box {
-	padding: 16% 0;
+	padding: 16% 0 12% 0 ;
 	text-align: center;
 	position: relative;
 	z-index: 1;
