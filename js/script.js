@@ -6,7 +6,7 @@
     //preloader
     $("#status").fadeOut(); // will first fade out the loading animation
     $("#preloader")
-      .delay(400)
+      .delay(450)
       .fadeOut("slow"); // will fade out the white DIV that covers the website.
 
     //google map load
